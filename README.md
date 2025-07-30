@@ -35,19 +35,6 @@ conversor-de-moedas/
 4. Digite o valor a ser convertido
 5. Clique em "Converter"
 
-## 📸 Screenshots
-
-[Adicione screenshots do seu projeto aqui]
-
-## 🤝 Contribuição
-
-Contribuições são sempre bem-vindas! Sinta-se à vontade para:
-
-1. Fazer um fork do projeto
-2. Criar uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abrir um Pull Request
 
 ## 📄 Licença
 
